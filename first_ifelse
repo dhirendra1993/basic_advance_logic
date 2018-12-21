@@ -1,0 +1,9 @@
+<?php
+$no=20;
+if($no % 20 == 0)
+{
+echo "even number";
+}else{
+echo  "odd number";
+}
+?>
